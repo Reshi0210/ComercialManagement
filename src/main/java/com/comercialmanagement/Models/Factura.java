@@ -22,4 +22,6 @@ public class Factura {
 
     private String client;
 
+    private Double amount;
+
 }
